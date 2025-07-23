@@ -1,4 +1,4 @@
-# **Child Nutrition Status Website - RShiny**
+# **Child Nutrition Status Website [R]**
 
 **Website Output:** [https://mubadiulfitriyani.shinyapps.io/status-gizi-balita-jawa-timur/](https://mubadiulfitriyani.shinyapps.io/status-gizi-balita-jawa-timur/)
 
